@@ -47,7 +47,7 @@ If you found this my work useful, please consider buying me a cup of coffee if y
 <a href='https://ko-fi.com/na103' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/cup-border.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 ## Thanks
 Thankyou to all the people who have helped with this project.<br>
-[Claudio](https://p-l4b.github.io/) for providing "the two carabinieri" (mc1488/mc1489) and help in reverse engineering.
+[Claudio](https://p-l4b.github.io/) for providing "the two carabinieri" (mc1488/mc1489) and help me in reverse engineering.
 ## License
 This work is licensed under a Creative Commons Attribution 4.0 International License. See [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
